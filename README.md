@@ -1,3 +1,9 @@
+This project is to print Receipt for local venders.
+Project is made with React and jsPDF library.
+To run this project first clone it then run command npm install.
+After proper installation run npm start to run program.
+This program is web based application which takes details and make a Receipt PDF for you.
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
